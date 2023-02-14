@@ -1,0 +1,429 @@
+
+{
+    "totalResults": 111126,
+    "startIndex": 1,
+    "itemsPerPage": 100,
+    "schemas": [
+        "urn:ietf:params:scim:api:messages:2.0:ListResponse"
+    ],
+    "Resources": [
+        {
+            "owner": {},
+            "aggregated": false,
+            "type": "group",
+            "descriptions": [],
+            "classifications": [],
+            "application": {
+                "displayName": "Active Directory - Credit Union Solution - NAVIGATOR1",
+                "value": "0ab47abd7e9810f1817eb15aa5a73a65",
+                "$ref": "http://w1cvap1539.1dc.com:8080/identityiq/scim/v2/Applications/0ab47abd7e9810f1817eb15aa5a73a65"
+            },
+            "meta": {
+                "created": "2022-05-09T17:49:34.099Z",
+                "location": "http://w1cvap1539.1dc.com:8080/identityiq/scim/v2/Entitlements/0ab47abd808613cf8180a9f0d4131556",
+                "version": "W/\"1652118574099\"",
+                "resourceType": "Entitlement"
+            },
+            "schemas": [
+                "urn:ietf:params:scim:schemas:sailpoint:1.0:Entitlement"
+            ],
+            "displayableName": "CN=Windows - Compliance and Changes,OU=Administrator Groups,OU=DataSafe,DC=NAVIGATOR1,DC=com",
+            "id": "0ab47abd808613cf8180a9f0d4131556",
+            "requestable": true,
+            "attribute": "memberOf",
+            "value": "CN=Windows - Compliance and Changes,OU=Administrator Groups,OU=DataSafe,DC=NAVIGATOR1,DC=com"
+        },
+        {
+            "owner": {},
+            "aggregated": false,
+            "type": "group",
+            "descriptions": [],
+            "classifications": [],
+            "application": {
+                "displayName": "Active Directory - Credit Union Solution - NAVIGATOR1",
+                "value": "0ab47abd7e9810f1817eb15aa5a73a65",
+                "$ref": "http://w1cvap1539.1dc.com:8080/identityiq/scim/v2/Applications/0ab47abd7e9810f1817eb15aa5a73a65"
+            },
+            "meta": {
+                "created": "2022-05-09T17:49:34.193Z",
+                "location": "http://w1cvap1539.1dc.com:8080/identityiq/scim/v2/Entitlements/0ab47abd808613cf8180a9f0d471155b",
+                "version": "W/\"1652118574193\"",
+                "resourceType": "Entitlement"
+            },
+            "schemas": [
+                "urn:ietf:params:scim:schemas:sailpoint:1.0:Entitlement"
+            ],
+            "displayableName": "CN=TREBIZTS01 RDP,OU=RDP Groups,OU=DataSafe,DC=NAVIGATOR1,DC=com",
+            "id": "0ab47abd808613cf8180a9f0d471155b",
+            "requestable": true,
+            "attribute": "memberOf",
+            "value": "CN=TREBIZTS01 RDP,OU=RDP Groups,OU=DataSafe,DC=NAVIGATOR1,DC=com"
+        },
+        {
+            "owner": {},
+            "aggregated": false,
+            "type": "group",
+            "descriptions": [],
+            "classifications": [],
+            "application": {
+                "displayName": "Active Directory - Credit Union Solution - NAVIGATOR1",
+                "value": "0ab47abd7e9810f1817eb15aa5a73a65",
+                "$ref": "http://w1cvap1539.1dc.com:8080/identityiq/scim/v2/Applications/0ab47abd7e9810f1817eb15aa5a73a65"
+            },
+            "meta": {
+                "created": "2022-05-09T17:49:34.209Z",
+                "location": "http://w1cvap1539.1dc.com:8080/identityiq/scim/v2/Entitlements/0ab47abd808613cf8180a9f0d481155c",
+                "version": "W/\"1652118574209\"",
+                "resourceType": "Entitlement"
+            },
+            "schemas": [
+                "urn:ietf:params:scim:schemas:sailpoint:1.0:Entitlement"
+            ],
+            "displayableName": "CN=ETG SERVICE OPERATIONS,OU=RDP Groups,OU=DataSafe,DC=NAVIGATOR1,DC=com",
+            "id": "0ab47abd808613cf8180a9f0d481155c",
+            "requestable": true,
+            "attribute": "memberOf",
+            "value": "CN=ETG SERVICE OPERATIONS,OU=RDP Groups,OU=DataSafe,DC=NAVIGATOR1,DC=com"
+        },
+        {
+            "owner": {},
+            "aggregated": false,
+            "type": "group",
+            "descriptions": [],
+            "classifications": [],
+            "application": {
+                "displayName": "Active Directory - Credit Union Solution - NAVIGATOR1",
+                "value": "0ab47abd7e9810f1817eb15aa5a73a65",
+                "$ref": "http://w1cvap1539.1dc.com:8080/identityiq/scim/v2/Applications/0ab47abd7e9810f1817eb15aa5a73a65"
+            },
+            "meta": {
+                "created": "2022-05-09T17:49:34.209Z",
+                "location": "http://w1cvap1539.1dc.com:8080/identityiq/scim/v2/Entitlements/0ab47abd808613cf8180a9f0d481155d",
+                "version": "W/\"1652118574209\"",
+                "resourceType": "Entitlement"
+            },
+            "schemas": [
+                "urn:ietf:params:scim:schemas:sailpoint:1.0:Entitlement"
+            ],
+            "displayableName": "CN=ETG INFRASTRUCTURE SERVICES,OU=OLSystems,OU=DataSafe,DC=NAVIGATOR1,DC=com",
+            "id": "0ab47abd808613cf8180a9f0d481155d",
+            "requestable": true,
+            "attribute": "memberOf",
+            "value": "CN=ETG INFRASTRUCTURE SERVICES,OU=OLSystems,OU=DataSafe,DC=NAVIGATOR1,DC=com"
+        },
+        {
+            "owner": {},
+            "aggregated": false,
+            "type": "group",
+            "descriptions": [],
+            "classifications": [],
+            "application": {
+                "displayName": "Active Directory - Credit Union Solution - NAVIGATOR1",
+                "value": "0ab47abd7e9810f1817eb15aa5a73a65",
+                "$ref": "http://w1cvap1539.1dc.com:8080/identityiq/scim/v2/Applications/0ab47abd7e9810f1817eb15aa5a73a65"
+            },
+            "meta": {
+                "created": "2022-05-09T17:49:34.209Z",
+                "location": "http://w1cvap1539.1dc.com:8080/identityiq/scim/v2/Entitlements/0ab47abd808613cf8180a9f0d481155e",
+                "version": "W/\"1652118574209\"",
+                "resourceType": "Entitlement"
+            },
+            "schemas": [
+                "urn:ietf:params:scim:schemas:sailpoint:1.0:Entitlement"
+            ],
+            "displayableName": "CN=TRTERMS02 RDP,OU=RDP Groups,OU=DataSafe,DC=NAVIGATOR1,DC=com",
+            "id": "0ab47abd808613cf8180a9f0d481155e",
+            "requestable": true,
+            "attribute": "memberOf",
+            "value": "CN=TRTERMS02 RDP,OU=RDP Groups,OU=DataSafe,DC=NAVIGATOR1,DC=com"
+        },
+        {
+            "owner": {},
+            "aggregated": false,
+            "type": "group",
+            "descriptions": [],
+            "classifications": [],
+            "application": {
+                "displayName": "Active Directory - Credit Union Solution - NAVIGATOR1",
+                "value": "0ab47abd7e9810f1817eb15aa5a73a65",
+                "$ref": "http://w1cvap1539.1dc.com:8080/identityiq/scim/v2/Applications/0ab47abd7e9810f1817eb15aa5a73a65"
+            },
+            "meta": {
+                "created": "2022-05-09T17:49:34.224Z",
+                "location": "http://w1cvap1539.1dc.com:8080/identityiq/scim/v2/Entitlements/0ab47abd808613cf8180a9f0d490155f",
+                "version": "W/\"1652118574224\"",
+                "resourceType": "Entitlement"
+            },
+            "schemas": [
+                "urn:ietf:params:scim:schemas:sailpoint:1.0:Entitlement"
+            ],
+            "displayableName": "CN=VMS Mgmt Servers Administrators,OU=Administrator Groups,OU=DataSafe,DC=NAVIGATOR1,DC=com",
+            "id": "0ab47abd808613cf8180a9f0d490155f",
+            "requestable": true,
+            "attribute": "memberOf",
+            "value": "CN=VMS Mgmt Servers Administrators,OU=Administrator Groups,OU=DataSafe,DC=NAVIGATOR1,DC=com"
+        },
+        {
+            "owner": {},
+            "aggregated": false,
+            "type": "group",
+            "descriptions": [],
+            "classifications": [],
+            "application": {
+                "displayName": "Active Directory - Credit Union Solution - NAVIGATOR1",
+                "value": "0ab47abd7e9810f1817eb15aa5a73a65",
+                "$ref": "http://w1cvap1539.1dc.com:8080/identityiq/scim/v2/Applications/0ab47abd7e9810f1817eb15aa5a73a65"
+            },
+            "meta": {
+                "created": "2022-05-09T17:49:34.240Z",
+                "location": "http://w1cvap1539.1dc.com:8080/identityiq/scim/v2/Entitlements/0ab47abd808613cf8180a9f0d4a01560",
+                "version": "W/\"1652118574240\"",
+                "resourceType": "Entitlement"
+            },
+            "schemas": [
+                "urn:ietf:params:scim:schemas:sailpoint:1.0:Entitlement"
+            ],
+            "displayableName": "CN=ETG FM DOCUMENTS,OU=RDP Groups,OU=DataSafe,DC=NAVIGATOR1,DC=com",
+            "id": "0ab47abd808613cf8180a9f0d4a01560",
+            "requestable": true,
+            "attribute": "memberOf",
+            "value": "CN=ETG FM DOCUMENTS,OU=RDP Groups,OU=DataSafe,DC=NAVIGATOR1,DC=com"
+        },
+        {
+            "owner": {},
+            "aggregated": false,
+            "type": "group",
+            "descriptions": [],
+            "classifications": [],
+            "application": {
+                "displayName": "Active Directory - Credit Union Solution - NAVIGATOR1",
+                "value": "0ab47abd7e9810f1817eb15aa5a73a65",
+                "$ref": "http://w1cvap1539.1dc.com:8080/identityiq/scim/v2/Applications/0ab47abd7e9810f1817eb15aa5a73a65"
+            },
+            "meta": {
+                "created": "2022-05-09T17:49:34.240Z",
+                "location": "http://w1cvap1539.1dc.com:8080/identityiq/scim/v2/Entitlements/0ab47abd808613cf8180a9f0d4a01561",
+                "version": "W/\"1652118574240\"",
+                "resourceType": "Entitlement"
+            },
+            "schemas": [
+                "urn:ietf:params:scim:schemas:sailpoint:1.0:Entitlement"
+            ],
+            "displayableName": "CN=TRTERMS03 RDP,OU=RDP Groups,OU=DataSafe,DC=NAVIGATOR1,DC=com",
+            "id": "0ab47abd808613cf8180a9f0d4a01561",
+            "requestable": true,
+            "attribute": "memberOf",
+            "value": "CN=TRTERMS03 RDP,OU=RDP Groups,OU=DataSafe,DC=NAVIGATOR1,DC=com"
+        },
+        {
+            "owner": {},
+            "aggregated": false,
+            "type": "group",
+            "descriptions": [],
+            "classifications": [],
+            "application": {
+                "displayName": "Active Directory - Credit Union Solution - NAVIGATOR1",
+                "value": "0ab47abd7e9810f1817eb15aa5a73a65",
+                "$ref": "http://w1cvap1539.1dc.com:8080/identityiq/scim/v2/Applications/0ab47abd7e9810f1817eb15aa5a73a65"
+            },
+            "meta": {
+                "created": "2022-05-09T17:49:34.240Z",
+                "location": "http://w1cvap1539.1dc.com:8080/identityiq/scim/v2/Entitlements/0ab47abd808613cf8180a9f0d4a01562",
+                "version": "W/\"1652118574240\"",
+                "resourceType": "Entitlement"
+            },
+            "schemas": [
+                "urn:ietf:params:scim:schemas:sailpoint:1.0:Entitlement"
+            ],
+            "displayableName": "CN=Key Management Servers RDP,OU=RDP Groups,OU=DataSafe,DC=NAVIGATOR1,DC=com",
+            "id": "0ab47abd808613cf8180a9f0d4a01562",
+            "requestable": true,
+            "attribute": "memberOf",
+            "value": "CN=Key Management Servers RDP,OU=RDP Groups,OU=DataSafe,DC=NAVIGATOR1,DC=com"
+        },
+        {
+            "owner": {},
+            "aggregated": false,
+            "type": "group",
+            "descriptions": [],
+            "classifications": [],
+            "application": {
+                "displayName": "Active Directory - Credit Union Solution - NAVIGATOR1",
+                "value": "0ab47abd7e9810f1817eb15aa5a73a65",
+                "$ref": "http://w1cvap1539.1dc.com:8080/identityiq/scim/v2/Applications/0ab47abd7e9810f1817eb15aa5a73a65"
+            },
+            "meta": {
+                "created": "2022-05-09T17:49:34.256Z",
+                "location": "http://w1cvap1539.1dc.com:8080/identityiq/scim/v2/Entitlements/0ab47abd808613cf8180a9f0d4b01563",
+                "version": "W/\"1652118574256\"",
+                "resourceType": "Entitlement"
+            },
+            "schemas": [
+                "urn:ietf:params:scim:schemas:sailpoint:1.0:Entitlement"
+            ],
+            "displayableName": "CN=Key Manager Servers Administrators,OU=Administrator Groups,OU=DataSafe,DC=NAVIGATOR1,DC=com",
+            "id": "0ab47abd808613cf8180a9f0d4b01563",
+            "requestable": true,
+            "attribute": "memberOf",
+            "value": "CN=Key Manager Servers Administrators,OU=Administrator Groups,OU=DataSafe,DC=NAVIGATOR1,DC=com"
+        },
+        {
+            "owner": {},
+            "aggregated": false,
+            "type": "group",
+            "descriptions": [],
+            "classifications": [],
+            "application": {
+                "displayName": "Active Directory - Credit Union Solution - NAVIGATOR1",
+                "value": "0ab47abd7e9810f1817eb15aa5a73a65",
+                "$ref": "http://w1cvap1539.1dc.com:8080/identityiq/scim/v2/Applications/0ab47abd7e9810f1817eb15aa5a73a65"
+            },
+            "meta": {
+                "created": "2022-05-09T17:49:34.256Z",
+                "location": "http://w1cvap1539.1dc.com:8080/identityiq/scim/v2/Entitlements/0ab47abd808613cf8180a9f0d4b01564",
+                "version": "W/\"1652118574256\"",
+                "resourceType": "Entitlement"
+            },
+            "schemas": [
+                "urn:ietf:params:scim:schemas:sailpoint:1.0:Entitlement"
+            ],
+            "displayableName": "CN=TRTERMS01 RDP,OU=RDP Groups,OU=DataSafe,DC=NAVIGATOR1,DC=com",
+            "id": "0ab47abd808613cf8180a9f0d4b01564",
+            "requestable": true,
+            "attribute": "memberOf",
+            "value": "CN=TRTERMS01 RDP,OU=RDP Groups,OU=DataSafe,DC=NAVIGATOR1,DC=com"
+        },
+        {
+            "owner": {},
+            "aggregated": false,
+            "type": "group",
+            "descriptions": [],
+            "classifications": [],
+            "application": {
+                "displayName": "Active Directory - Credit Union Solution - NAVIGATOR1",
+                "value": "0ab47abd7e9810f1817eb15aa5a73a65",
+                "$ref": "http://w1cvap1539.1dc.com:8080/identityiq/scim/v2/Applications/0ab47abd7e9810f1817eb15aa5a73a65"
+            },
+            "meta": {
+                "created": "2022-05-09T17:49:34.271Z",
+                "location": "http://w1cvap1539.1dc.com:8080/identityiq/scim/v2/Entitlements/0ab47abd808613cf8180a9f0d4bf1565",
+                "version": "W/\"1652118574271\"",
+                "resourceType": "Entitlement"
+            },
+            "schemas": [
+                "urn:ietf:params:scim:schemas:sailpoint:1.0:Entitlement"
+            ],
+            "displayableName": "CN=Intranet Power Users,CN=Users,DC=NAVIGATOR1,DC=com",
+            "id": "0ab47abd808613cf8180a9f0d4bf1565",
+            "requestable": true,
+            "attribute": "memberOf",
+            "value": "CN=Intranet Power Users,CN=Users,DC=NAVIGATOR1,DC=com"
+        },
+        {
+            "owner": {},
+            "aggregated": false,
+            "type": "group",
+            "descriptions": [],
+            "classifications": [],
+            "application": {
+                "displayName": "Active Directory - Credit Union Solution - NAVIGATOR1",
+                "value": "0ab47abd7e9810f1817eb15aa5a73a65",
+                "$ref": "http://w1cvap1539.1dc.com:8080/identityiq/scim/v2/Applications/0ab47abd7e9810f1817eb15aa5a73a65"
+            },
+            "meta": {
+                "created": "2022-05-09T17:49:34.271Z",
+                "location": "http://w1cvap1539.1dc.com:8080/identityiq/scim/v2/Entitlements/0ab47abd808613cf8180a9f0d4bf1566",
+                "version": "W/\"1652118574271\"",
+                "resourceType": "Entitlement"
+            },
+            "schemas": [
+                "urn:ietf:params:scim:schemas:sailpoint:1.0:Entitlement"
+            ],
+            "displayableName": "CN=Online Systems Team,OU=OLSystems,OU=DataSafe,DC=NAVIGATOR1,DC=com",
+            "id": "0ab47abd808613cf8180a9f0d4bf1566",
+            "requestable": true,
+            "attribute": "memberOf",
+            "value": "CN=Online Systems Team,OU=OLSystems,OU=DataSafe,DC=NAVIGATOR1,DC=com"
+        },
+        {
+            "owner": {},
+            "aggregated": false,
+            "type": "group",
+            "descriptions": [],
+            "classifications": [],
+            "application": {
+                "displayName": "Active Directory - Credit Union Solution - NAVIGATOR1",
+                "value": "0ab47abd7e9810f1817eb15aa5a73a65",
+                "$ref": "http://w1cvap1539.1dc.com:8080/identityiq/scim/v2/Applications/0ab47abd7e9810f1817eb15aa5a73a65"
+            },
+            "meta": {
+                "created": "2022-05-09T17:49:34.334Z",
+                "location": "http://w1cvap1539.1dc.com:8080/identityiq/scim/v2/Entitlements/0ab47abd808613cf8180a9f0d4fe1576",
+                "version": "W/\"1652118574334\"",
+                "resourceType": "Entitlement"
+            },
+            "schemas": [
+                "urn:ietf:params:scim:schemas:sailpoint:1.0:Entitlement"
+            ],
+            "displayableName": "CN=SCCM Admins,OU=Groups,OU=Administration,DC=NAVIGATOR1,DC=com",
+            "id": "0ab47abd808613cf8180a9f0d4fe1576",
+            "requestable": true,
+            "attribute": "memberOf",
+            "value": "CN=SCCM Admins,OU=Groups,OU=Administration,DC=NAVIGATOR1,DC=com"
+        },
+        {
+            "owner": {},
+            "aggregated": false,
+            "type": "group",
+            "descriptions": [],
+            "classifications": [],
+            "application": {
+                "displayName": "Active Directory - Credit Union Solution - NAVIGATOR1",
+                "value": "0ab47abd7e9810f1817eb15aa5a73a65",
+                "$ref": "http://w1cvap1539.1dc.com:8080/identityiq/scim/v2/Applications/0ab47abd7e9810f1817eb15aa5a73a65"
+            },
+            "meta": {
+                "created": "2022-05-09T17:49:34.334Z",
+                "location": "http://w1cvap1539.1dc.com:8080/identityiq/scim/v2/Entitlements/0ab47abd808613cf8180a9f0d4fe1577",
+                "version": "W/\"1652118574334\"",
+                "resourceType": "Entitlement"
+            },
+            "schemas": [
+                "urn:ietf:params:scim:schemas:sailpoint:1.0:Entitlement"
+            ],
+            "displayableName": "CN=Local Administrator Access,OU=Administrator Groups,OU=DataSafe,DC=NAVIGATOR1,DC=com",
+            "id": "0ab47abd808613cf8180a9f0d4fe1577",
+            "requestable": true,
+            "attribute": "memberOf",
+            "value": "CN=Local Administrator Access,OU=Administrator Groups,OU=DataSafe,DC=NAVIGATOR1,DC=com"
+        },
+        {
+            "owner": {},
+            "aggregated": false,
+            "type": "group",
+            "descriptions": [],
+            "classifications": [],
+            "application": {
+                "displayName": "Active Directory - Credit Union Solution - NAVIGATOR1",
+                "value": "0ab47abd7e9810f1817eb15aa5a73a65",
+                "$ref": "http://w1cvap1539.1dc.com:8080/identityiq/scim/v2/Applications/0ab47abd7e9810f1817eb15aa5a73a65"
+            },
+            "meta": {
+                "created": "2022-05-09T17:49:34.381Z",
+                "location": "http://w1cvap1539.1dc.com:8080/identityiq/scim/v2/Entitlements/0ab47abd808613cf8180a9f0d52d157d",
+                "version": "W/\"1652118574381\"",
+                "resourceType": "Entitlement"
+            },
+            "schemas": [
+                "urn:ietf:params:scim:schemas:sailpoint:1.0:Entitlement"
+            ],
+            "displayableName": "CN=Windows - Incident Response,OU=Administrator Groups,OU=DataSafe,DC=NAVIGATOR1,DC=com",
+            "id": "0ab47abd808613cf8180a9f0d52d157d",
+            "requestable": true,
+            "attribute": "memberOf",
+            "value": "CN=Windows - Incident Response,OU=Administrator Groups,OU=DataSafe,DC=NAVIGATOR1,DC=com"
+        }
+	]
+		
+}
+
