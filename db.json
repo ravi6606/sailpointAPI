@@ -1,39 +1,5 @@
 
 {
     "totalResults": 111126,
-    "startIndex": 1,
-    "itemsPerPage": 100,
-    "schemas": [
-        "urn:ietf:params:scim:api:messages:2.0:ListResponse"
-    ],
-    "Resources": [
-        {
-            "owner": {},
-            "aggregated": false,
-            "type": "group",
-            "descriptions": [],
-            "classifications": [],
-            "application": {
-                "displayName": "Active Directory - Credit Union Solution - NAVIGATOR1",
-                "value": "0ab47abd7e9810f1817eb15aa5a73a65",
-                "$ref": "http://w1cvap1539.1dc.com:8080/identityiq/scim/v2/Applications/0ab47abd7e9810f1817eb15aa5a73a65"
-            },
-            "meta": {
-                "created": "2022-05-09T17:49:34.099Z",
-                "location": "http://w1cvap1539.1dc.com:8080/identityiq/scim/v2/Entitlements/0ab47abd808613cf8180a9f0d4131556",
-                "version": "W/\"1652118574099\"",
-                "resourceType": "Entitlement"
-            },
-            "schemas": [
-                "urn:ietf:params:scim:schemas:sailpoint:1.0:Entitlement"
-            ],
-            "displayableName": "CN=Windows - Compliance and Changes,OU=Administrator Groups,OU=DataSafe,DC=NAVIGATOR1,DC=com",
-            "id": "0ab47abd808613cf8180a9f0d4131556",
-            "requestable": true,
-            "attribute": "memberOf",
-            "value": "CN=Windows - Compliance and Changes,OU=Administrator Groups,OU=DataSafe,DC=NAVIGATOR1,DC=com"
-        }
-	]
-		
-}
+    "startIndex": 1}
 
